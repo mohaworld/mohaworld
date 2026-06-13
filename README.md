@@ -10,7 +10,7 @@ I have 14+ years of experience in IT, specializing in infrastructure, cloud oper
 
 ### ☁️ Cloud
 - Azure (AZ-104)
-- AWS (In Progress)
+- Azure (Az-400) - in Progress
 
 ### ⚙️ DevOps & Automation
 - Terraform
